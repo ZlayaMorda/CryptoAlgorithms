@@ -6,3 +6,13 @@
 **/encrypted.txt
 **/imito.txt
 **/sending.txt
+**/ciphertext.txt
+**/decrypted.txt
+**/pk.txt
+**/plaintext.txt
+**/sk.txt
+**/hash.txt
+**/sign_r.txt
+**/sign_s.txt
+**/c1.txt
+**/c2.txt
